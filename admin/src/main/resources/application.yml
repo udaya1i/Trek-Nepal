@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: admin
+
+  profiles:
+    active: prod
+
+server:
+  port: 6060
+
+logging:
+  level:
+    root: WARN
+    com.trek: INFO
+    org.hibernate.SQL: WARN
+  file:
+    name: logs/admin/admin.log
+
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
+    file: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
+
+  logback:
+    rollingpolicy:
+      max-file-size: 10MB
+      max-history: 30

@@ -1,0 +1,35 @@
+spring:
+  application:
+    name: trekker-application
+
+  profiles:
+    active: prod
+
+  jpa:
+    hibernate:
+      naming:
+        physical-strategy: com.trek.core.config.db.UpperCaseNamingStrategy
+    open-in-view: false
+
+  jackson:
+    time-zone: Asia/Kathmandu
+    default-property-inclusion: non_null
+
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 200MB
+    encoding:
+      charset: UTF-8
+      enabled: true
+server:
+  port: 8080
+  address: 0.0.0.0
+  servlet:
+    context-path: /api
+  compression:
+    enabled: true
+    mime-types: text/html,text/xml,text/plain,text/css,application/javascript,application/json
+  tomcat:
+    max-parameter-count: 100
+    max-http-form-post-size: 50MB

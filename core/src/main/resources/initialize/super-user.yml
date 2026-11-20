@@ -1,0 +1,21 @@
+super-user:
+  admin:
+    name: Super Admin
+    username: sarkar
+    email: superadmin@trek.com
+    password: Ki84!!3^&%3ggeb
+    superPassword: Ki84!!3^&%3ggeb
+    isVerified: true
+    isSuperAdmin: true
+
+  role:
+    name: SUPER_ADMIN
+    description: Full system access
+
+  authorities:
+    - code: DESTINATION_MANAGEMENT
+      description: DESTINATION MANAGEMENT
+    - code: ADMIN_MANAGEMENT
+      description: ADMIN MANAGEMENT
+    - code: ROLE_MANAGEMENT
+      description: ROLE MANAGEMENT

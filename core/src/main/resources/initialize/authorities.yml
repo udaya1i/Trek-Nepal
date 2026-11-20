@@ -1,0 +1,20 @@
+authority:
+  authorities:
+  - id: 1
+    code: DESTINATION_MANAGEMENT
+    description: DESTINATION MANAGEMENT
+  - id: 2
+    code: ADMIN_MANAGEMENT
+    description: ADMIN MANAGEMENT
+  - id: 3
+    code: ROLE_MANAGEMENT
+    description: ROLE MANAGEMENT
+  - id: 4
+    code: TREKKER_STORY
+    description: TREKKER STORY
+  - id: 5
+    code: TREKKER_PROFILE
+    description: TREKKER PROFILE
+  - id: 6
+    code: REVIEW_DESTINATION
+    description: REVIEW DESTINATION

@@ -1,0 +1,11 @@
+trekker-role:
+  role:
+    name: TREKKER
+    description: Default trekker access
+  authorities:
+    - code: TREKKER_PROFILE
+      description: TREKKER CAN MANAGE PROFILE
+    - code: TREKKER_STORY
+      description: TREKKER CAN TAKE ACTION ON ALL THE STORY RESOURCES
+    - code: REVIEW_DESTINATION
+      description: TREKKER CAN REIVEW DESTINATION

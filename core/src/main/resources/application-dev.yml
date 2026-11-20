@@ -1,0 +1,88 @@
+app:
+  frontend:
+    base-url: ${FRONTEND_BASE_URL:http://localhost:3000}
+    oauth-callback-path: /auth/callback
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/walk_the_himalaya_dev
+    username: postgres
+    password: ${DB_PASSWORD:admin}
+    driverClassName: org.postgresql.Driver
+
+    hikariConfig:
+      maximumPoolSize: 20
+      minimumIdle: 10
+      connectionTimeout: 20000
+      idleTimeout: 600000
+      maxLifetime: 1800000
+      poolName: TrekProdHikariPool
+      autoCommit: false
+
+jwt:
+  access-token-secret: ${JWT_ACCESS_SECRET:ASFXAA22AA??'30!!!TTGyebkjsad*#(HFif8392482939fhadfjaslkdfji2oefn0*J:*FIEJFLKJ32F)(#J)(FIIJOIJFEOIFJ)(*#U(@*GHF(*@*8484848473uihjsdav20022}
+  refresh-token-secret: ${JWT_REFRESH_SECRET:RTFXAAAA??'30!!!TTGyebkjsad*#(HFif8392482939fhadfjaslkddfji2oefn0*J:*FIEJFLKJF)(#J)(FIIJOI2JFEOIFJ)(*#U(@*GHF(*@*8484848473uihjsdav20022}
+  access-token-expiration: 50m
+  refresh-token-expiration: 30d
+  issuer: trekker-auth
+
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 50MB
+      max-request-size: 500MB
+      file-size-threshold: 2KB
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        jdbc:
+          batch_size: 20
+        order_inserts: true
+        order_updates: true
+
+  flyway:
+    enabled: false
+    locations: classpath:db/migration
+    baseline-on-migrate: true
+    baseline-version: 0
+
+  web:
+    error:
+      include-binding-errors: never
+      include-message: never
+      include-stacktrace: never
+
+  mail:
+    from: &mail-user "treknepalinformation@gmail.com"
+    username: *mail-user
+    host: smtp.gmail.com
+    port: 587
+    password: ${MAIL_APP_PASSWORD}
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: ${GOOGLE_CLIENT_ID}
+            client-secret: ${GOOGLE_CLIENT_SECRET}
+            scope:
+              - email
+              - profile
+
+cloudinary:
+  cloud-name: fqqcr1zg
+  api-key: ${CLOUDINARY_API_KEY}
+  api-secret: ${CLOUDINARY_API_SECRET}
+  folder: treks

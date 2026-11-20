@@ -1,0 +1,1088 @@
+provinces:
+  - id: 1
+    name: Koshi Province
+    districts:
+      - id: 1
+        name: Bhojpur
+        localLevels:
+          - { id: 1, name: Shadanand Municipality }
+          - { id: 2, name: Bhojpur Municipality }
+          - { id: 3, name: Hatuwagadhi Rural Municipality }
+          - { id: 4, name: Ramprasad Rai Rural Municipality }
+          - { id: 5, name: Aamchok Rural Municipality }
+          - { id: 6, name: Tyamke Maiyum Rural Municipality }
+          - { id: 7, name: Arun Rural Municipality }
+          - { id: 8, name: Pauwadungma Rural Municipality }
+          - { id: 9, name: Salpasilichho Rural Municipality }
+
+      - id: 2
+        name: Dhankuta
+        localLevels:
+          - { id: 10, name: Dhankuta Municipality }
+          - { id: 11, name: Pakhribas Municipality }
+          - { id: 12, name: Mahalaxmi Municipality }
+          - { id: 13, name: Sangurigadhi Rural Municipality }
+          - { id: 14, name: Chaubise Rural Municipality }
+          - { id: 15, name: Sahidbhumi Rural Municipality }
+          - { id: 16, name: Chhathar Jorpati Rural Municipality }
+
+      - id: 3
+        name: Ilam
+        localLevels:
+          - { id: 17, name: Suryodaya Municipality }
+          - { id: 18, name: Ilam Municipality }
+          - { id: 19, name: Deumai Municipality }
+          - { id: 20, name: Maijogmai Rural Municipality }
+          - { id: 21, name: Phakphokthum Rural Municipality }
+          - { id: 22, name: Mai Municipality }
+          - { id: 23, name: Chulachuli Rural Municipality }
+          - { id: 24, name: Rong Rural Municipality }
+          - { id: 25, name: Mangsebung Rural Municipality }
+          - { id: 26, name: Sandakpur Rural Municipality }
+
+      - id: 4
+        name: Jhapa
+        localLevels:
+          - { id: 27, name: Mechinagar Municipality }
+          - { id: 28, name: Birtamod Municipality }
+          - { id: 29, name: Damak Municipality }
+          - { id: 30, name: Bhadrapur Municipality }
+          - { id: 31, name: Shivasatakshi Municipality }
+          - { id: 32, name: Arjundhara Municipality }
+          - { id: 33, name: Gauradaha Municipality }
+          - { id: 34, name: Kankai Municipality }
+          - { id: 35, name: Kamal Rural Municipality }
+          - { id: 36, name: Buddha Shanti Rural Municipality }
+          - { id: 37, name: Kachankawal Rural Municipality }
+          - { id: 38, name: Jhapa Rural Municipality }
+          - { id: 39, name: Barhadashi Rural Municipality }
+          - { id: 40, name: Gaurigunj Rural Municipality }
+          - { id: 41, name: Haldibari Rural Municipality }
+
+      - id: 5
+        name: Khotang
+        localLevels:
+          - { id: 42, name: Diktel Rupakot Majhuwagadhi Municipality }
+          - { id: 43, name: Halesi Tuwachung Municipality }
+          - { id: 44, name: Khotehang Rural Municipality }
+          - { id: 45, name: Diprung Chuichumma Rural Municipality }
+          - { id: 46, name: Aiselukharka Rural Municipality }
+          - { id: 47, name: Jantedhunga Rural Municipality }
+          - { id: 48, name: Kepilasgadhi Rural Municipality }
+          - { id: 49, name: Barahpokhari Rural Municipality }
+          - { id: 50, name: Rawa Besi Rural Municipality }
+          - { id: 51, name: Sakela Rural Municipality }
+
+      - id: 6
+        name: Morang
+        localLevels:
+          - { id: 52, name: Sundar Haraicha Municipality }
+          - { id: 53, name: Belbari Municipality }
+          - { id: 54, name: Pathari Shanischare Municipality }
+          - { id: 55, name: Ratuwamai Municipality }
+          - { id: 56, name: Urlabari Municipality }
+          - { id: 57, name: Rangeli Municipality }
+          - { id: 58, name: Sunawarshi Municipality }
+          - { id: 59, name: Letang Municipality }
+          - { id: 60, name: Biratnagar Metropolitan City }
+          - { id: 61, name: Jahada Rural Municipality }
+          - { id: 62, name: Budi Ganga Rural Municipality }
+          - { id: 63, name: Katahari Rural Municipality }
+          - { id: 64, name: Dhanpalthan Rural Municipality }
+          - { id: 65, name: Kanepokhari Rural Municipality }
+          - { id: 66, name: Gramthan Rural Municipality }
+          - { id: 67, name: Kerabari Rural Municipality }
+          - { id: 68, name: Miklajung Rural Municipality }
+
+      - id: 7
+        name: Okhaldhunga
+        localLevels:
+          - { id: 69, name: Siddhicharan Municipality }
+          - { id: 70, name: Khiji Demba Rural Municipality }
+          - { id: 71, name: Chisankhugadhi Rural Municipality }
+          - { id: 72, name: Molung Rural Municipality }
+          - { id: 73, name: Sunkoshi Rural Municipality }
+          - { id: 74, name: Champadevi Rural Municipality }
+          - { id: 75, name: Manebhanjyang Rural Municipality }
+          - { id: 76, name: Likhu Rural Municipality }
+
+      - id: 8
+        name: Pachthar
+        localLevels:
+          - { id: 77, name: Phidim Municipality }
+          - { id: 78, name: Miklajung Rural Municipality }
+          - { id: 79, name: Phalgunanda Rural Municipality }
+          - { id: 80, name: Hilihang Rural Municipality }
+          - { id: 81, name: Phalelung Rural Municipality }
+          - { id: 82, name: Yangwarak Rural Municipality }
+          - { id: 83, name: Kummayak Rural Municipality }
+          - { id: 84, name: Tumbewa Rural Municipality }
+
+      - id: 9
+        name: Sankhuwasabha
+        localLevels:
+          - { id: 85, name: Khandbari Municipality }
+          - { id: 86, name: Chainpur Municipality }
+          - { id: 87, name: Dharmadevi Municipality }
+          - { id: 88, name: Panchkhapan Municipality }
+          - { id: 89, name: Madi Municipality }
+          - { id: 90, name: Makalu Rural Municipality }
+          - { id: 91, name: Silichong Rural Municipality }
+          - { id: 92, name: Sabhapokhari Rural Municipality }
+          - { id: 93, name: Chichila Rural Municipality }
+          - { id: 94, name: BhotKhola Rural Municipality }
+
+      - id: 10
+        name: Solukhumbu
+        localLevels:
+          - { id: 95, name: Solu Dudhkunda Municipality }
+          - { id: 96, name: Mapya Dudhkoshi Rural Municipality }
+          - { id: 97, name: Necha Salyan Rural Municipality }
+          - { id: 98, name: Thulung Dudhkoshi Rural Municipality }
+          - { id: 99, name: Maha Kulung Rural Municipality }
+          - { id: 100, name: Sotang Rural Municipality }
+          - { id: 101, name: Khumbu PasangLhamu Rural Municipality }
+          - { id: 102, name: Likhu Pike Rural Municipality }
+
+      - id: 11
+        name: Sunsari
+        localLevels:
+          - { id: 103, name: BarahaKshetra Municipality }
+          - { id: 104, name: Inaruwa Municipality }
+          - { id: 105, name: Duhabi Municipality }
+          - { id: 106, name: Ramdhuni Municipality }
+          - { id: 107, name: Itahari Sub-Metropolitan City }
+          - { id: 108, name: Dharan Sub-Metropolitan City }
+          - { id: 109, name: Koshi Rural Municipality }
+          - { id: 110, name: Harinagar Rural Municipality }
+          - { id: 111, name: Bhokraha Narsingh Rural Municipality }
+          - { id: 112, name: Dewangunj Rural Municipality }
+          - { id: 113, name: Gadhi Rural Municipality }
+          - { id: 114, name: Barju Rural Municipality }
+
+      - id: 12
+        name: Taplejung
+        localLevels:
+          - { id: 115, name: Phungling Municipality }
+          - { id: 116, name: Sirijangha Rural Municipality }
+          - { id: 117, name: Aathrai Triveni Rural Municipality }
+          - { id: 118, name: Pathibhara Yangwarak Rural Municipality }
+          - { id: 119, name: Meringden Rural Municipality }
+          - { id: 120, name: Sidingwa Rural Municipality }
+          - { id: 121, name: Phaktanglung Rural Municipality }
+          - { id: 122, name: Maiwa Khola Rural Municipality }
+          - { id: 123, name: Mikwa Khola Rural Municipality }
+
+      - id: 13
+        name: Terhathum
+        localLevels:
+          - { id: 124, name: Myanglung Municipality }
+          - { id: 125, name: Laligurans Municipality }
+          - { id: 126, name: Aathrai Rural Municipality }
+          - { id: 127, name: Phedap Rural Municipality }
+          - { id: 128, name: Chhathar Rural Municipality }
+          - { id: 129, name: Menchayayem Rural Municipality }
+
+      - id: 14
+        name: Udayapur
+        localLevels:
+          - { id: 130, name: Triyuga Municipality }
+          - { id: 131, name: Katari Municipality }
+          - { id: 132, name: Chaudandigadhi Municipality }
+          - { id: 133, name: Belaka Municipality }
+          - { id: 134, name: Udayapurgadhi Rural Municipality }
+          - { id: 135, name: Rautamai Rural Municipality }
+          - { id: 136, name: Tapli Rural Municipality }
+          - { id: 137, name: Limchungbung Rural Municipality }
+
+
+  - id: 2
+    name: Madhesh Province
+    districts:
+      - id: 15
+        name: Parsa
+        localLevels:
+          - { id: 138, name: Birgunj Metropolitan City }
+          - { id: 139, name: Bahudarmai Municipality }
+          - { id: 140, name: Parsagadhi Municipality }
+          - { id: 141, name: Pokhariya Municipality }
+          - { id: 142, name: Bindabasini Rural Municipality }
+          - { id: 143, name: Dhobini Rural Municipality }
+          - { id: 144, name: Chhipaharmai Rural Municipality }
+          - { id: 145, name: Jagarnathpur Rural Municipality }
+          - { id: 146, name: Jirabhawani Rural Municipality }
+          - { id: 147, name: Kalikamai Rural Municipality }
+          - { id: 148, name: Pakaha Mainpur Rural Municipality }
+          - { id: 149, name: Paterwa Sugauli Rural Municipality }
+          - { id: 150, name: Sakhuwa Prasauni Rural Municipality }
+          - { id: 151, name: Thori Rural Municipality }
+
+      - id: 16
+        name: Bara
+        localLevels:
+          - { id: 152, name: Kalaiya Sub-Metropolitan City }
+          - { id: 153, name: Jitpur Simara Sub-Metropolitan City }
+          - { id: 154, name: Kolhabi Municipality }
+          - { id: 155, name: Nijgadh Municipality }
+          - { id: 156, name: Mahagadhimai Municipality }
+          - { id: 157, name: Simaraungadh Municipality }
+          - { id: 158, name: Pacharauta Municipality }
+          - { id: 159, name: Pheta Rural Municipality }
+          - { id: 160, name: Bishrampur Rural Municipality }
+          - { id: 161, name: Prasauni Rural Municipality }
+          - { id: 162, name: Adarsh Kotwal Rural Municipality }
+          - { id: 163, name: Karaiyamai Rural Municipality }
+          - { id: 164, name: Devtal Rural Municipality }
+          - { id: 165, name: Parwanipur Rural Municipality }
+          - { id: 166, name: Baragadhi Rural Municipality }
+          - { id: 167, name: Suwarna Rural Municipality }
+
+      - id: 17
+        name: Rautahat
+        localLevels:
+          - { id: 168, name: Baudhimai Municipality }
+          - { id: 169, name: Brindaban Municipality }
+          - { id: 170, name: Chandrapur Municipality }
+          - { id: 171, name: Dewahi Gonahi Municipality }
+          - { id: 172, name: Gadhimai Municipality }
+          - { id: 173, name: Guruda Municipality }
+          - { id: 174, name: Gaur Municipality }
+          - { id: 175, name: Gujara Municipality }
+          - { id: 176, name: Ishanath Municipality }
+          - { id: 177, name: Katahariya Municipality }
+          - { id: 178, name: Madhav Narayan Municipality }
+          - { id: 179, name: Maulapur Municipality }
+          - { id: 180, name: Paroha Municipality }
+          - { id: 181, name: Phatuwa Bijayapur Municipality }
+          - { id: 182, name: Rajdevi Municipality }
+          - { id: 183, name: Rajpur Municipality }
+          - { id: 184, name: Durga Bhagwati Rural Municipality }
+          - { id: 185, name: Yamunamai Rural Municipality }
+
+      - id: 18
+        name: Sarlahi
+        localLevels:
+          - { id: 186, name: Bagmati Municipality }
+          - { id: 187, name: Balara Municipality }
+          - { id: 188, name: Barahathwa Municipality }
+          - { id: 189, name: Godaita Municipality }
+          - { id: 190, name: Hariwan Municipality }
+          - { id: 191, name: Haripur Municipality }
+          - { id: 192, name: Haripurwa Municipality }
+          - { id: 193, name: Ishowrpur Municipality }
+          - { id: 194, name: Kabilasi Municipality }
+          - { id: 195, name: Lalbandi Municipality }
+          - { id: 196, name: Malangawa Municipality }
+          - { id: 197, name: Basbariya Rural Municipality }
+          - { id: 198, name: Bisnu Rural Municipality }
+          - { id: 199, name: Brahampuri Rural Municipality }
+          - { id: 200, name: Chakraghatta Rural Municipality }
+          - { id: 201, name: Chandranagar Rural Municipality }
+          - { id: 202, name: Dhankaul Rural Municipality }
+          - { id: 203, name: Kaudena Rural Municipality }
+          - { id: 204, name: Parsa Rural Municipality }
+          - { id: 205, name: Ramnagar Rural Municipality }
+
+      - id: 19
+        name: Siraha
+        localLevels:
+          - { id: 206, name: Lahan Municipality }
+          - { id: 207, name: Dhangadhimai Municipality }
+          - { id: 208, name: Siraha Municipality }
+          - { id: 209, name: Golbazar Municipality }
+          - { id: 210, name: Mirchaiya Municipality }
+          - { id: 211, name: Kalyanpur Municipality }
+          - { id: 212, name: Karjanha Municipality }
+          - { id: 213, name: Sukhipur Municipality }
+          - { id: 214, name: Bhagwanpur Rural Municipality }
+          - { id: 215, name: Aurahi Rural Municipality }
+          - { id: 216, name: Bishnupur Rural Municipality }
+          - { id: 217, name: Bariyarpatti Rural Municipality }
+          - { id: 218, name: Lakshmipur Patari Rural Municipality }
+          - { id: 219, name: Naraha Rural Municipality }
+          - { id: 220, name: SakhuwanankarKatti Rural Municipality }
+          - { id: 221, name: Arnama Rural Municipality }
+          - { id: 222, name: Navarajpur Rural Municipality }
+
+      - id: 20
+        name: Dhanusha
+        localLevels:
+          - { id: 223, name: Janakpurdham Sub-Metropolitan City }
+          - { id: 224, name: Chhireshwarnath Municipality }
+          - { id: 225, name: Ganeshman Charnath Municipality }
+          - { id: 226, name: Dhanushadham Municipality }
+          - { id: 227, name: Nagarain Municipality }
+          - { id: 228, name: Bideha Municipality }
+          - { id: 229, name: Mithila Municipality }
+          - { id: 230, name: Sahidnagar Municipality }
+          - { id: 231, name: Sabaila Municipality }
+          - { id: 232, name: Kamala Municipality }
+          - { id: 233, name: MithilaBihari Municipality }
+          - { id: 234, name: Hansapur Municipality }
+          - { id: 235, name: Janaknandani Rural Municipality }
+          - { id: 236, name: Bateshwar Rural Municipality }
+          - { id: 237, name: Mukhiyapatti Musharniya Rural Municipality }
+          - { id: 238, name: Lakshminya Rural Municipality }
+          - { id: 239, name: Aaurahi Rural Municipality }
+          - { id: 240, name: Dhanauji Rural Municipality }
+
+      - id: 21
+        name: Saptari
+        localLevels:
+          - { id: 241, name: Bodebarsain Municipality }
+          - { id: 242, name: Dakneshwori Municipality }
+          - { id: 243, name: Hanumannagar Kankalini Municipality }
+          - { id: 244, name: Kanchanrup Municipality }
+          - { id: 245, name: Khadak Municipality }
+          - { id: 246, name: Shambhunath Municipality }
+          - { id: 247, name: Saptakoshi Municipality }
+          - { id: 248, name: Surunga Municipality }
+          - { id: 249, name: Rajbiraj Municipality }
+          - { id: 250, name: Agnisaira Krishnasavaran Rural Municipality }
+          - { id: 251, name: Balan-Bihul Rural Municipality }
+          - { id: 252, name: Rajgadh Rural Municipality }
+          - { id: 253, name: Bishnupur Rural Municipality }
+          - { id: 254, name: Chhinnamasta Rural Municipality }
+          - { id: 255, name: Mahadeva Rural Municipality }
+          - { id: 256, name: Rupani Rural Municipality }
+          - { id: 257, name: Tilathi Koiladi Rural Municipality }
+          - { id: 258, name: Tirhut Rural Municipality }
+
+      - id: 22
+        name: Mahottari
+        localLevels:
+          - { id: 259, name: Aaurahi Municipality }
+          - { id: 260, name: Balawa Municipality }
+          - { id: 261, name: Bardibas Municipality }
+          - { id: 262, name: Bhangaha Municipality }
+          - { id: 263, name: Gaushala Municipality }
+          - { id: 264, name: Jaleshor Municipality }
+          - { id: 265, name: Loharpatti Municipality }
+          - { id: 266, name: Manara Shiswa Municipality }
+          - { id: 267, name: Matihani Municipality }
+          - { id: 268, name: Ramgopalpur Municipality }
+          - { id: 269, name: Ekdara Rural Municipality }
+          - { id: 270, name: Mahottari Rural Municipality }
+          - { id: 271, name: Pipara Rural Municipality }
+          - { id: 272, name: Samsi Rural Municipality }
+          - { id: 273, name: Sonama Rural Municipality }
+
+
+  - id: 3
+    name: Bagmati Province
+    districts:
+      - id: 23
+        name: Bhaktapur
+        localLevels:
+          - { id: 274, name: Bhaktapur Municipality }
+          - { id: 275, name: Changunarayan Municipality }
+          - { id: 276, name: Suryabinayak Municipality }
+          - { id: 277, name: Madhyapur Thimi Municipality }
+
+      - id: 24
+        name: Chitwan
+        localLevels:
+          - { id: 278, name: Bharatpur Metropolitan City }
+          - { id: 279, name: Kalika Municipality }
+          - { id: 280, name: Khairhani Municipality }
+          - { id: 281, name: Madi Municipality }
+          - { id: 282, name: Ratnagar Municipality }
+          - { id: 283, name: Rapti Municipality }
+          - { id: 284, name: Ichchhakamana Rural Municipality }
+
+      - id: 25
+        name: Dhading
+        localLevels:
+          - { id: 285, name: Dhunibeshi Municipality }
+          - { id: 286, name: Nilkantha Municipality }
+          - { id: 287, name: Khaniyabas Rural Municipality }
+          - { id: 288, name: Gajuri Rural Municipality }
+          - { id: 289, name: Galchhi Rural Municipality }
+          - { id: 290, name: Gangajamuna Rural Municipality }
+          - { id: 291, name: Jwalamukhi Rural Municipality }
+          - { id: 292, name: Thakre Rural Municipality }
+          - { id: 293, name: Netrawati Dabjong Rural Municipality }
+          - { id: 294, name: Benighat Rorang Rural Municipality }
+          - { id: 295, name: Rubi Valley Rural Municipality }
+          - { id: 296, name: Siddhalek Rural Municipality }
+          - { id: 297, name: Tripurasundari Rural Municipality }
+
+      - id: 26
+        name: Dolakha
+        localLevels:
+          - { id: 298, name: Bhimeswor Municipality }
+          - { id: 299, name: Jiri Municipality }
+          - { id: 300, name: Kalinchok Rural Municipality }
+          - { id: 301, name: Melung Rural Municipality }
+          - { id: 302, name: Bigu Rural Municipality }
+          - { id: 303, name: Gaurishankar Rural Municipality }
+          - { id: 304, name: Baiteshowr Rural Municipality }
+          - { id: 305, name: Sailung Rural Municipality }
+          - { id: 306, name: Tamakoshi Rural Municipality }
+
+      - id: 27
+        name: Kathmandu
+        localLevels:
+          - { id: 307, name: Kathmandu Metropolitan City }
+          - { id: 308, name: Gokarneshwar Municipality }
+          - { id: 309, name: Kirtipur Municipality }
+          - { id: 310, name: Kageshwari-Manohara Municipality }
+          - { id: 311, name: Chandragiri Municipality }
+          - { id: 312, name: Tokha Municipality }
+          - { id: 313, name: Tarakeshwar Municipality }
+          - { id: 314, name: Dakshinkali Municipality }
+          - { id: 315, name: Nagarjun Municipality }
+          - { id: 316, name: Budhalikantha Municipality }
+          - { id: 317, name: Shankharapur Municipality }
+
+      - id: 28
+        name: Kavrepalanchok
+        localLevels:
+          - { id: 318, name: Dhulikhel Municipality }
+          - { id: 319, name: Namobuddha Municipality }
+          - { id: 320, name: Panauti Municipality }
+          - { id: 321, name: Panchkhal Municipality }
+          - { id: 322, name: Banepa Municipality }
+          - { id: 323, name: Mandandeupur Municipality }
+          - { id: 324, name: Khani Khola Rural Municipality }
+          - { id: 325, name: Chauri Deurali Rural Municipality }
+          - { id: 326, name: Temal Rural Municipality }
+          - { id: 327, name: Bethanchok Rural Municipality }
+          - { id: 328, name: Bhumlu Rural Municipality }
+          - { id: 329, name: Mahabharat Rural Municipality }
+          - { id: 330, name: Roshi Rural Municipality }
+
+      - id: 29
+        name: Lalitpur
+        localLevels:
+          - { id: 331, name: Lalitpur Metropolitan City }
+          - { id: 332, name: Mahalaxmi Municipality }
+          - { id: 333, name: Godawari Municipality }
+          - { id: 334, name: Konjyosom Rural Municipality }
+          - { id: 335, name: Bagmati Rural Municipality }
+          - { id: 336, name: Mahankal Rural Municipality }
+
+      - id: 30
+        name: Makwanpur
+        localLevels:
+          - { id: 337, name: Hetauda Sub-Metropolitan City }
+          - { id: 338, name: Thaha Municipality }
+          - { id: 339, name: Bhimphedi Rural Municipality }
+          - { id: 340, name: Makawanpurgadhi Rural Municipality }
+          - { id: 341, name: Manahari Rural Municipality }
+          - { id: 342, name: Raksirang Rural Municipality }
+          - { id: 343, name: Bakaiya Rural Municipality }
+          - { id: 344, name: Bagmati Rural Municipality }
+          - { id: 345, name: Kailash Rural Municipality }
+          - { id: 346, name: Indrasarowar Rural Municipality }
+
+      - id: 31
+        name: Nuwakot
+        localLevels:
+          - { id: 347, name: Bidur Municipality }
+          - { id: 348, name: Belkotgadhi Municipality }
+          - { id: 349, name: Kakani Rural Municipality }
+          - { id: 350, name: Panchakanya Rural Municipality }
+          - { id: 351, name: Likhu Rural Municipality }
+          - { id: 352, name: Dupcheshwar Rural Municipality }
+          - { id: 353, name: Shivapuri Rural Municipality }
+          - { id: 354, name: Tadi Rural Municipality }
+          - { id: 355, name: Suryagadhi Rural Municipality }
+          - { id: 356, name: Tarkeshwar Rural Municipality }
+          - { id: 357, name: Kispang Rural Municipality }
+          - { id: 358, name: Myagang Rural Municipality }
+
+      - id: 32
+        name: Ramechap
+        localLevels:
+          - { id: 359, name: Manthali Municipality }
+          - { id: 360, name: Ramechhap Municipality }
+          - { id: 361, name: Umakunda Rural Municipality }
+          - { id: 362, name: Khandadevi Rural Municipality }
+          - { id: 363, name: Doramba Rural Municipality }
+          - { id: 364, name: Gokulganga Rural Municipality }
+          - { id: 365, name: LikhuTamakoshi Rural Municipality }
+          - { id: 366, name: Sunapati Rural Municipality }
+
+      - id: 33
+        name: Rasuwa
+        localLevels:
+          - { id: 367, name: Kalika Rural Municipality }
+          - { id: 368, name: Gosaikunda Rural Municipality }
+          - { id: 369, name: Naukunda Rural Municipality }
+          - { id: 370, name: Parbatikunda Rural Municipality }
+          - { id: 371, name: Uttargaya Rural Municipality }
+
+      - id: 34
+        name: Sindhuli
+        localLevels:
+          - { id: 372, name: Kamalamai Municipality }
+          - { id: 373, name: Dudhauli Municipality }
+          - { id: 374, name: Sunkoshi Rural Municipality }
+          - { id: 375, name: Hariharpurgadhi Rural Municipality }
+          - { id: 376, name: Tinpatan Rural Municipality }
+          - { id: 377, name: Marin Rural Municipality }
+          - { id: 378, name: Golanjor Rural Municipality }
+          - { id: 379, name: Phikkal Rural Municipality }
+          - { id: 380, name: Ghyanglekh Rural Municipality }
+
+      - id: 35
+        name: Sindhupalchok
+        localLevels:
+          - { id: 381, name: Chautara Sangachowkgadi Municipality }
+          - { id: 382, name: Bahrabise Municipality }
+          - { id: 383, name: Melamchi Municipality }
+          - { id: 384, name: Balephi Rural Municipality }
+          - { id: 385, name: Sunkoshi Rural Municipality }
+          - { id: 386, name: Indrawati Rural Municipality }
+          - { id: 387, name: Jugal Rural Municipality }
+          - { id: 388, name: Panchpokhari Rural Municipality }
+          - { id: 389, name: Bhotekoshi Rural Municipality }
+          - { id: 390, name: Lisankhu Rural Municipality }
+          - { id: 391, name: Helambu Rural Municipality }
+          - { id: 392, name: Tripurasundari Rural Municipality }
+
+
+  - id: 4
+    name: Gandaki Province
+    districts:
+      - id: 36
+        name: Baglung
+        localLevels:
+          - { id: 393, name: Baglung Municipality }
+          - { id: 394, name: Dhorpatan Municipality }
+          - { id: 395, name: Galkot Municipality }
+          - { id: 396, name: Jaimuni Municipality }
+          - { id: 397, name: Bareng Rural Municipality }
+          - { id: 398, name: Khathekhola Rural Municipality }
+          - { id: 399, name: Taman Khola Rural Municipality }
+          - { id: 400, name: Tara Khola Rural Municipality }
+          - { id: 401, name: Nishi Khola Rural Municipality }
+          - { id: 402, name: Badigad Rural Municipality }
+
+      - id: 37
+        name: Gorkha
+        localLevels:
+          - { id: 403, name: Gorkha Municipality }
+          - { id: 404, name: Palungtar Municipality }
+          - { id: 405, name: Sulikot Rural Municipality }
+          - { id: 406, name: Siranchowk Rural Municipality }
+          - { id: 407, name: Ajirkot Rural Municipality }
+          - { id: 408, name: Chumnubri Rural Municipality }
+          - { id: 409, name: Dharche Rural Municipality }
+          - { id: 410, name: Bhimsen Thapa Rural Municipality }
+          - { id: 411, name: Sahid Lakhan Rural Municipality }
+          - { id: 412, name: Aarughat Rural Municipality }
+          - { id: 413, name: Gandaki Rural Municipality }
+
+      - id: 38
+        name: Kaski
+        localLevels:
+          - { id: 414, name: Pokhara Metropolitan City }
+          - { id: 415, name: Annapurna Rural Municipality }
+          - { id: 416, name: Machhapuchchhre Rural Municipality }
+          - { id: 417, name: Madi Rural Municipality }
+          - { id: 418, name: Rupa Rural Municipality }
+
+      - id: 39
+        name: Lamjung
+        localLevels:
+          - { id: 419, name: Besisahar Municipality }
+          - { id: 420, name: Madhya Nepal Municipality }
+          - { id: 421, name: Rainas Municipality }
+          - { id: 422, name: Sundarbazar Municipality }
+          - { id: 423, name: Dordi Rural Municipality }
+          - { id: 424, name: Dudhpokhari Rural Municipality }
+          - { id: 425, name: Kwhlosothar Rural Municipality }
+          - { id: 426, name: Marsyangdi Rural Municipality }
+
+      - id: 40
+        name: Manang
+        localLevels:
+          - { id: 427, name: Chame Rural Municipality }
+          - { id: 428, name: Nason Rural Municipality }
+          - { id: 429, name: NarpaBhumi Rural Municipality }
+          - { id: 430, name: Manang Ngisyang Rural Municipality }
+
+      - id: 41
+        name: Mustang
+        localLevels:
+          - { id: 431, name: Gharpajhong Rural Municipality }
+          - { id: 432, name: Thasang Rural Municipality }
+          - { id: 433, name: Barhagaun Muktichhetra Rural Municipality }
+          - { id: 434, name: Lomanthang Rural Municipality }
+          - { id: 435, name: Lo-Ghekar Damodarkunda Rural Municipality }
+
+      - id: 42
+        name: Myagdi
+        localLevels:
+          - { id: 436, name: Beni Municipality }
+          - { id: 437, name: Annapurna Rural Municipality }
+          - { id: 438, name: Dhaulagiri Rural Municipality }
+          - { id: 439, name: Mangala Rural Municipality }
+          - { id: 440, name: Malika Rural Municipality }
+          - { id: 441, name: Raghuganga Rural Municipality }
+
+      - id: 43
+        name: Nawalpur
+        localLevels:
+          - { id: 442, name: Kawasoti Municipality }
+          - { id: 443, name: Gaindakot Municipality }
+          - { id: 444, name: Devachuli Municipality }
+          - { id: 445, name: Madhya Bindu Municipality }
+          - { id: 446, name: Baudikali Rural Municipality }
+          - { id: 447, name: Bulingtar Rural Municipality }
+          - { id: 448, name: Binayi Tribeni Rural Municipality }
+          - { id: 449, name: Hupsekot Rural Municipality }
+
+      - id: 44
+        name: Parwat
+        localLevels:
+          - { id: 450, name: Kushma Municipality }
+          - { id: 451, name: Phalewas Municipality }
+          - { id: 452, name: Jaljala Rural Municipality }
+          - { id: 453, name: Paiyun Rural Municipality }
+          - { id: 454, name: Mahashila Rural Municipality }
+          - { id: 455, name: Modi Rural Municipality }
+          - { id: 456, name: Bihadi Rural Municipality }
+
+      - id: 45
+        name: Syangja
+        localLevels:
+          - { id: 457, name: Galyang Municipality }
+          - { id: 458, name: Chapakot Municipality }
+          - { id: 459, name: Putalibazar Municipality }
+          - { id: 460, name: Bheerkot Municipality }
+          - { id: 461, name: Waling Municipality }
+          - { id: 462, name: Arjun Chaupari Rural Municipality }
+          - { id: 463, name: Aandhikhola Rural Municipality }
+          - { id: 464, name: Kaligandaki Rural Municipality }
+          - { id: 465, name: Phedikhola Rural Municipality }
+          - { id: 466, name: Harinas Rural Municipality }
+          - { id: 467, name: Biruwa Rural Municipality }
+
+      - id: 46
+        name: Tanahun
+        localLevels:
+          - { id: 468, name: Bhanu Municipality }
+          - { id: 469, name: Bhimad Municipality }
+          - { id: 470, name: Byas Municipality }
+          - { id: 471, name: Suklagandaki Municipality }
+          - { id: 472, name: AnbuKhaireni Rural Municipality }
+          - { id: 473, name: Devghat Rural Municipality }
+          - { id: 474, name: Bandipur Rural Municipality }
+          - { id: 475, name: Rishing Rural Municipality }
+          - { id: 476, name: Ghiring Rural Municipality }
+          - { id: 477, name: Myagde Rural Municipality }
+
+
+  - id: 5
+    name: Lumbini Province
+    districts:
+      - id: 47
+        name: Kapilvastu
+        localLevels:
+          - { id: 478, name: Kapilvastu Municipality }
+          - { id: 479, name: Banganga Municipality }
+          - { id: 480, name: Buddhabhumi Municipality }
+          - { id: 481, name: Shivaraj Municipality }
+          - { id: 482, name: Krishnanagar Municipality }
+          - { id: 483, name: Maharajgunj Municipality }
+          - { id: 484, name: Mayadevi Rural Municipality }
+          - { id: 485, name: Yashodhara Rural Municipality }
+          - { id: 486, name: Suddhodan Rural Municipality }
+          - { id: 487, name: Bijaynagar Rural Municipality }
+
+      - id: 48
+        name: Parasi
+        localLevels:
+          - { id: 488, name: Bardaghat Municipality }
+          - { id: 489, name: Ramgram Municipality }
+          - { id: 490, name: Sunwal Municipality }
+          - { id: 491, name: Susta Rural Municipality }
+          - { id: 492, name: Palhi Nandan Rural Municipality }
+          - { id: 493, name: Pratappur Rural Municipality }
+          - { id: 494, name: Sarawal Rural Municipality }
+
+      - id: 49
+        name: Rupandehi
+        localLevels:
+          - { id: 495, name: Butwal Sub-Metropolitan City }
+          - { id: 496, name: Devdaha Municipality }
+          - { id: 497, name: Lumbini Sanskritik Municipality }
+          - { id: 498, name: Sainamaina Municipality }
+          - { id: 499, name: Siddharthanagar Municipality }
+          - { id: 500, name: Tilottama Municipality }
+          - { id: 501, name: Gaidahawa Rural Municipality }
+          - { id: 502, name: Kanchan Rural Municipality }
+          - { id: 503, name: Kotahimai Rural Municipality }
+          - { id: 504, name: Marchawari Rural Municipality }
+          - { id: 505, name: Mayadevi Rural Municipality }
+          - { id: 506, name: Omsatiya Rural Municipality }
+          - { id: 507, name: Rohini Rural Municipality }
+          - { id: 508, name: Sammarimai Rural Municipality }
+          - { id: 509, name: Siyari Rural Municipality }
+          - { id: 510, name: Suddodhan Rural Municipality }
+
+      - id: 50
+        name: Arghakhanchi
+        localLevels:
+          - { id: 511, name: Sandhikharka Municipality }
+          - { id: 512, name: Sitganga Municipality }
+          - { id: 513, name: Bhumikasthan Municipality }
+          - { id: 514, name: Chhatradev Rural Municipality }
+          - { id: 515, name: Panini Rural Municipality }
+          - { id: 516, name: Malarani Rural Municipality }
+
+      - id: 51
+        name: Gulmi
+        localLevels:
+          - { id: 517, name: Resunga Municipality }
+          - { id: 518, name: Musikot Municipality }
+          - { id: 519, name: Rurukshetra Rural Municipality }
+          - { id: 520, name: Chhatrakot Rural Municipality }
+          - { id: 521, name: Gulmidarbar Rural Municipality }
+          - { id: 522, name: Chandrakot Rural Municipality }
+          - { id: 523, name: Satyawati Rural Municipality }
+          - { id: 524, name: Dhurkot Rural Municipality }
+          - { id: 525, name: Kaligandaki Rural Municipality }
+          - { id: 526, name: Isma Rural Municipality }
+          - { id: 527, name: Malika Rural Municipality }
+          - { id: 528, name: Madane Rural Municipality }
+
+      - id: 52
+        name: Palpa
+        localLevels:
+          - { id: 529, name: Tansen Municipality }
+          - { id: 530, name: Rampur Municipality }
+          - { id: 531, name: Rainadevi Chhahara Rural Municipality }
+          - { id: 532, name: Ripdikot Rural Municipality }
+          - { id: 533, name: Bagnaskali Rural Municipality }
+          - { id: 534, name: Rambha Rural Municipality }
+          - { id: 535, name: Purbakhola Rural Municipality }
+          - { id: 536, name: Nisdi Rural Municipality }
+          - { id: 537, name: Mathagadhi Rural Municipality }
+          - { id: 538, name: Tinahu Rural Municipality }
+
+      - id: 53
+        name: Dang
+        localLevels:
+          - { id: 539, name: Ghorahi Sub-Metropolitan City }
+          - { id: 540, name: Tulsipur Sub-Metropolitan City }
+          - { id: 541, name: Lamahi Municipality }
+          - { id: 542, name: Gadhawa Rural Municipality }
+          - { id: 543, name: Rajpur Rural Municipality }
+          - { id: 544, name: Shantinagar Rural Municipality }
+          - { id: 545, name: Rapti Rural Municipality }
+          - { id: 546, name: Banglachuli Rural Municipality }
+          - { id: 547, name: Dangisharan Rural Municipality }
+          - { id: 548, name: Babai Rural Municipality }
+
+      - id: 54
+        name: Pyuthan
+        localLevels:
+          - { id: 549, name: Sworgadwari Municipality }
+          - { id: 550, name: Pyuthan Municipality }
+          - { id: 551, name: Mandavi Rural Municipality }
+          - { id: 552, name: Sarumarani Rural Municipality }
+          - { id: 553, name: Ayirawati Rural Municipality }
+          - { id: 554, name: Mallarani Rural Municipality }
+          - { id: 555, name: Jhimruk Rural Municipality }
+          - { id: 556, name: Naubahini Rural Municipality }
+          - { id: 557, name: Gaumukhi Rural Municipality }
+
+      - id: 55
+        name: Rolpa
+        localLevels:
+          - { id: 558, name: Rolpa Municipality }
+          - { id: 559, name: Runtigadi Rural Municipality }
+          - { id: 560, name: Triveni Rural Municipality }
+          - { id: 561, name: Sunil Smiriti Rural Municipality }
+          - { id: 562, name: Lungri Rural Municipality }
+          - { id: 563, name: Sunchhahari Rural Municipality }
+          - { id: 564, name: Thawang Rural Municipality }
+          - { id: 565, name: Madi Rural Municipality }
+          - { id: 566, name: GangaDev Rural Municipality }
+          - { id: 567, name: Pariwartan Rural Municipality }
+
+      - id: 56
+        name: Eastern Rukum
+        localLevels:
+          - { id: 568, name: Putha Uttarganga Rural Municipality }
+          - { id: 569, name: Bhume Rural Municipality }
+          - { id: 570, name: Sisne Rural Municipality }
+
+      - id: 57
+        name: Banke
+        localLevels:
+          - { id: 571, name: Nepalgunj Sub-Metropolitan City }
+          - { id: 572, name: Kohalpur Municipality }
+          - { id: 573, name: Rapti-Sonari Rural Municipality }
+          - { id: 574, name: Narainapur Rural Municipality }
+          - { id: 575, name: Duduwa Rural Municipality }
+          - { id: 576, name: Janaki Rural Municipality }
+          - { id: 577, name: Khajura Rural Municipality }
+          - { id: 578, name: Baijanath Rural Municipality }
+
+      - id: 58
+        name: Bardiya
+        localLevels:
+          - { id: 579, name: Gulariya Municipality }
+          - { id: 580, name: Rajapur Municipality }
+          - { id: 581, name: Madhuwan Municipality }
+          - { id: 582, name: Thakurbaba Municipality }
+          - { id: 583, name: Basgadhi Municipality }
+          - { id: 584, name: Barbardiya Municipality }
+          - { id: 585, name: Badhaiyatal Rural Municipality }
+          - { id: 586, name: Geruwa Rural Municipality }
+
+
+  - id: 6
+    name: Karnali Province
+    districts:
+      - id: 59
+        name: Western Rukum
+        localLevels:
+          - { id: 587, name: Aathabiskot Municipality }
+          - { id: 588, name: Musikot Municipality }
+          - { id: 589, name: Chaurjahari Municipality }
+          - { id: 590, name: SaniBheri Rural Municipality }
+          - { id: 591, name: Triveni Rural Municipality }
+          - { id: 592, name: Banphikot Rural Municipality }
+
+      - id: 60
+        name: Salyan
+        localLevels:
+          - { id: 593, name: Kumakh Rural Municipality }
+          - { id: 594, name: Kalimati Rural Municipality }
+          - { id: 595, name: Chhatreshwari Rural Municipality }
+          - { id: 596, name: Darma Rural Municipality }
+          - { id: 597, name: Kapurkot Rural Municipality }
+          - { id: 598, name: Triveni Rural Municipality }
+          - { id: 599, name: Siddha Kumakh Rural Municipality }
+          - { id: 600, name: Bagchaur Municipality }
+          - { id: 601, name: Shaarda Municipality }
+          - { id: 602, name: Bangad Kupinde Municipality }
+
+      - id: 61
+        name: Dolpa
+        localLevels:
+          - { id: 603, name: Mudkechula Rural Municipality }
+          - { id: 604, name: Kaike Rural Municipality }
+          - { id: 605, name: She Phoksundo Rural Municipality }
+          - { id: 606, name: Jagadulla Rural Municipality }
+          - { id: 607, name: Dolpo Buddha Rural Municipality }
+          - { id: 608, name: Chharka Tongsong Rural Municipality }
+          - { id: 609, name: Thuli Bheri Municipality }
+          - { id: 610, name: Tripurasundari Municipality }
+
+      - id: 62
+        name: Humla
+        localLevels:
+          - { id: 611, name: Simkot Rural Municipality }
+          - { id: 612, name: Sarkegad Rural Municipality }
+          - { id: 613, name: Adanchuli Rural Municipality }
+          - { id: 614, name: Kharpunath Rural Municipality }
+          - { id: 615, name: Tanjakot Rural Municipality }
+          - { id: 616, name: Chankheli Rural Municipality }
+          - { id: 617, name: Namkha Rural Municipality }
+
+      - id: 63
+        name: Jumla
+        localLevels:
+          - { id: 618, name: Tatopani Rural Municipality }
+          - { id: 619, name: Patarasi Rural Municipality }
+          - { id: 620, name: Tila Rural Municipality }
+          - { id: 621, name: Kanaka Sundari Rural Municipality }
+          - { id: 622, name: Sinja Rural Municipality }
+          - { id: 623, name: Hima Rural Municipality }
+          - { id: 624, name: Guthichaur Rural Municipality }
+          - { id: 625, name: Chandannath Municipality }
+
+      - id: 64
+        name: Kalikot
+        localLevels:
+          - { id: 626, name: Khandachakra Municipality }
+          - { id: 627, name: Raskot Municipality }
+          - { id: 628, name: Tilagufa Municipality }
+          - { id: 629, name: Narharinath Rural Municipality }
+          - { id: 630, name: Palata Rural Municipality }
+          - { id: 631, name: Shubha Kalika Rural Municipality }
+          - { id: 632, name: Sanni Triveni Rural Municipality }
+          - { id: 633, name: Pachaljharana Rural Municipality }
+          - { id: 634, name: Mahawai Rural Municipality }
+
+      - id: 65
+        name: Mugu
+        localLevels:
+          - { id: 635, name: Khatyad Rural Municipality }
+          - { id: 636, name: Soru Rural Municipality }
+          - { id: 637, name: Mugum Karmarong Rural Municipality }
+          - { id: 638, name: Chhayanath Rara Municipality }
+
+      - id: 66
+        name: Surkhet
+        localLevels:
+          - { id: 639, name: Simta Rural Municipality }
+          - { id: 640, name: Barahatal Rural Municipality }
+          - { id: 641, name: Chaukune Rural Municipality }
+          - { id: 642, name: Chingad Rural Municipality }
+          - { id: 643, name: Gurbhakot Municipality }
+          - { id: 644, name: Birendranagar Municipality }
+          - { id: 645, name: Bheriganga Municipality }
+          - { id: 646, name: Panchapuri Municipality }
+          - { id: 647, name: Lekbeshi Municipality }
+
+      - id: 67
+        name: Dailekh
+        localLevels:
+          - { id: 648, name: Dullu Municipality }
+          - { id: 649, name: Gurans Rural Municipality }
+          - { id: 650, name: Bhairabi Rural Municipality }
+          - { id: 651, name: Naumule Rural Municipality }
+          - { id: 652, name: Mahabu Rural Municipality }
+          - { id: 653, name: Thantikandh Rural Municipality }
+          - { id: 654, name: Bhagawatimai Rural Municipality }
+          - { id: 655, name: Dungeshwar Rural Municipality }
+          - { id: 656, name: Aathabis Municipality }
+          - { id: 657, name: Narayan Municipality }
+          - { id: 658, name: Chamunda Bindrasaini Municipality }
+
+      - id: 68
+        name: Jajarkot
+        localLevels:
+          - { id: 659, name: Chhedagad Municipality }
+          - { id: 660, name: Bheri Municipality }
+          - { id: 661, name: Nalgad Municipality }
+          - { id: 662, name: Junichande Rural Municipality }
+          - { id: 663, name: Kuse Rural Municipality }
+          - { id: 664, name: Barekot Rural Municipality }
+          - { id: 665, name: Shivalaya Rural Municipality }
+
+
+  - id: 7
+    name: Sudurpashchim Province
+    districts:
+      - id: 69
+        name: Darchula
+        localLevels:
+          - { id: 666, name: Mahakali Municipality }
+          - { id: 667, name: Shailyashikhar Municipality }
+          - { id: 668, name: Naugad Rural Municipality }
+          - { id: 669, name: Malikarjun Rural Municipality }
+          - { id: 670, name: Marma Rural Municipality }
+          - { id: 671, name: Lekam Rural Municipality }
+          - { id: 672, name: Duhun Rural Municipality }
+          - { id: 673, name: Vyans Rural Municipality }
+          - { id: 674, name: Apihimal Rural Municipality }
+
+      - id: 70
+        name: Bajhang
+        localLevels:
+          - { id: 675, name: Jayaprithvi Municipality }
+          - { id: 676, name: Bungal Municipality }
+          - { id: 677, name: Kedarsyu Rural Municipality }
+          - { id: 678, name: Thalara Rural Municipality }
+          - { id: 679, name: Bitthadchir Rural Municipality }
+          - { id: 680, name: Chhabis Pathibhera Rural Municipality }
+          - { id: 681, name: Khaptadchhanna Rural Municipality }
+          - { id: 682, name: Masta Rural Municipality }
+          - { id: 683, name: Durgathali Rural Municipality }
+          - { id: 684, name: Talkot Rural Municipality }
+          - { id: 685, name: Surma Rural Municipality }
+          - { id: 686, name: Saipal Rural Municipality }
+
+      - id: 71
+        name: Bajura
+        localLevels:
+          - { id: 687, name: Badimalika Municipality }
+          - { id: 688, name: Triveni Municipality }
+          - { id: 689, name: Budhiganga Municipality }
+          - { id: 690, name: Budhinanda Municipality }
+          - { id: 691, name: Khaptad Chhededaha Rural Municipality }
+          - { id: 692, name: Swami Kartik Khapar Rural Municipality }
+          - { id: 693, name: Jagannath Rural Municipality }
+          - { id: 694, name: Himali Rural Municipality }
+          - { id: 695, name: Gaumul Rural Municipality }
+
+      - id: 72
+        name: Baitadi
+        localLevels:
+          - { id: 696, name: Dashrathchanda Municipality }
+          - { id: 697, name: Patan Municipality }
+          - { id: 698, name: Melauli Municipality }
+          - { id: 699, name: Purchaudi Municipality }
+          - { id: 700, name: Dogdakedar Rural Municipality }
+          - { id: 701, name: Dilashaini Rural Municipality }
+          - { id: 702, name: Sigas Rural Municipality }
+          - { id: 703, name: Pancheshwar Rural Municipality }
+          - { id: 704, name: Surnaya Rural Municipality }
+          - { id: 705, name: Shivanath Rural Municipality }
+
+      - id: 73
+        name: Doti
+        localLevels:
+          - { id: 706, name: Dipayal Silgadhi Municipality }
+          - { id: 707, name: Shikhar Municipality }
+          - { id: 708, name: Aadarsha Rural Municipality }
+          - { id: 709, name: Purbichauki Rural Municipality }
+          - { id: 710, name: K.I.Singh Rural Municipality }
+          - { id: 711, name: Jorayal Rural Municipality }
+          - { id: 712, name: Sayal Rural Municipality }
+          - { id: 713, name: Bogatan-Phudsil Rural Municipality }
+          - { id: 714, name: Badikedar Rural Municipality }
+
+      - id: 74
+        name: Acham
+        localLevels:
+          - { id: 715, name: Ramaroshan Rural Municipality }
+          - { id: 716, name: Chaurpati Rural Municipality }
+          - { id: 717, name: Turmakhand Rural Municipality }
+          - { id: 718, name: Mellekh Rural Municipality }
+          - { id: 719, name: Dhakari Rural Municipality }
+          - { id: 720, name: Bannigadi Jayagad Rural Municipality }
+          - { id: 721, name: Mangalsen Municipality }
+          - { id: 722, name: Kamalbazar Municipality }
+          - { id: 723, name: Sanfebagar Municipality }
+          - { id: 724, name: Panchadewal Binayak Municipality }
+
+      - id: 75
+        name: Dadeldhura
+        localLevels:
+          - { id: 725, name: Navadurga Rural Municipality }
+          - { id: 726, name: Aalitaal Rural Municipality }
+          - { id: 727, name: Ganyapadhura Rural Municipality }
+          - { id: 728, name: Bhageshwar Rural Municipality }
+          - { id: 729, name: Ajaymeru Rural Municipality }
+          - { id: 730, name: Amargadhi Municipality }
+          - { id: 731, name: Parshuram Municipality }
+
+      - id: 76
+        name: Kanchanpur
+        localLevels:
+          - { id: 732, name: Bhimdatta Municipality }
+          - { id: 733, name: Punarbas Municipality }
+          - { id: 734, name: Bedkot Municipality }
+          - { id: 735, name: Mahakali Municipality }
+          - { id: 736, name: Shuklaphanta Municipality }
+          - { id: 737, name: Belauri Municipality }
+          - { id: 738, name: Krishnapur Municipality }
+          - { id: 739, name: Laljhadi Rural Municipality }
+          - { id: 740, name: Beldandi Rural Municipality }
+
+      - id: 77
+        name: Kailali
+        localLevels:
+          - { id: 741, name: Janaki Rural Municipality }
+          - { id: 742, name: Kailari Rural Municipality }
+          - { id: 743, name: Joshipur Rural Municipality }
+          - { id: 744, name: Bardagoriya Rural Municipality }
+          - { id: 745, name: Mohanyal Rural Municipality }
+          - { id: 746, name: Chure Rural Municipality }
+          - { id: 747, name: Tikapur Municipality }
+          - { id: 748, name: Ghodaghodi Municipality }
+          - { id: 749, name: Lamkichuha Municipality }
+          - { id: 750, name: Bhajni Municipality }
+          - { id: 751, name: Godawari Municipality }
+          - { id: 752, name: Gauriganga Municipality }
+          - { id: 753, name: Dhangadhi Sub-Metropolitan City }
